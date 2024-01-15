@@ -1,0 +1,6 @@
+--language all
+--output menuchi
+--note True
+--sort True
+--remove-empty-lines True
+--author rivki
